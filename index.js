@@ -81,6 +81,7 @@ function App(){
 
             
         </div>
+        <p className="text-center">By Arnaud</p>
         </div>  
          
     );
