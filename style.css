@@ -1,0 +1,8 @@
+* {
+    transition: all 1s ease-in-out;
+}
+
+.card {
+    color: whitesmoke;
+    background-color: rgba(23, 27, 27, 0.1);
+}
