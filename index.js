@@ -62,7 +62,7 @@ function App() {
                                         '"' + randomQuote.text + '"' + randomQuote.author
                                     )
                                 }
-                                    target="_blank" className="g-col-4 btn btn-warning">
+                                    target="_blank" className="g-col-4 btn btn-outline-primary">
                                     <i className="fa fa-twitter"></i>
                                 </a>
                                 <a href={"https://www.tumblr.com/widgets/share/too?posttype=quote&tags=quotes,freecodecamp&caption=" +
