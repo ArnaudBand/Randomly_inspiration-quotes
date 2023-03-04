@@ -1,8 +1,14 @@
 * {
-    transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .card {
-    color: whitesmoke;
-    background-color: rgba(23, 27, 27, 0.1);
+  color: whitesmoke;
+  background-color: rgba(23, 27, 27, 0.1);
 }
